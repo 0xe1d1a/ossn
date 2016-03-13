@@ -10,7 +10,7 @@
  */
 $en = array(
 	'com:ossn:invite' => 'Invite',			
-	'com:ossn:invite:friends' => 'Invite Friends',
+	'com:ossn:invite:friends' => 'Invite Researchers',
 	'com:ossn:invite:friends:note' => 'To invite friends to join you on this network, enter their email addresses and a brief message. They will receive an email containing your invitation.',
 	'com:ossn:invite:emails:note' => 'Email addresses (separated by a comma)',
 	'com:ossn:invite:emails:placeholder' => 'smith@example.com, john@example.com',
