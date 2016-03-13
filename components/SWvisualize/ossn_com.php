@@ -12,6 +12,7 @@ function ossn_analysis() {
         "section" => "links",
         "icon" => ""
     ));
+}
 
 //this line is used to register initliize function to ossn system
 ossn_register_callback('ossn', 'init', 'ossn_analysis');
