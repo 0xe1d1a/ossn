@@ -11,6 +11,40 @@
 define('__OSSN_SITE_PAGES__', ossn_route()->com . 'OssnSitePages/');
 require_once(__OSSN_SITE_PAGES__ . 'classes/OssnSitePages.php');
 
+ /**
+  * User auto validate
+  *
+  * @return void;
+  */
+ function userautovalidate(){
+	ossn_add_hook('user', 'send:activation', 'userautovalidate_disable_confirmation');
+	ossn_add_hook('user', 'create:validated', 'userautovalidate_enable_member');
+ }
+ /**
+  * userautovalidate_disable_confirmation
+  *
+  * Disable sending validation email
+  *
+  * @note don't call this function directly
+  * @return false.
+  */
+ function userautovalidate_disable_confirmation(){
+	return false; 
+ }
+  /**
+  * userautovalidate_enable_member
+  *
+  * Enable instant membership
+  *
+  * @note don't call this function directly
+  * @return true.
+  */
+ function userautovalidate_enable_member(){
+	return true; 
+ } 
+
+
+
 function ossn_sitepages() {
     //css
     ossn_extend_view('css/ossn.default', 'css/pages');
@@ -85,3 +119,4 @@ function ossn_site_pages($pages) {
 }
 
 ossn_register_callback('ossn', 'init', 'ossn_sitepages');
+ossn_register_callback('ossn', 'init', 'userautovalidate');

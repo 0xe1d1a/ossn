@@ -17,9 +17,9 @@ $en = array(
 	'photos:ossn' => 'Photos',
 	'admin:view:site' => 'View Site',
 	
-	'home:top:heading' => "Welcome to %s! Join now to make new friends, create groups, add photos, and much more.",
+	'home:top:heading' => "Welcome to %s! Join now to make new fellow researchers, join groups, and much more.",
 	'create:account' => 'Create an account',
-	'its:free' => "It's free and always will be.",
+	'its:free' => "Free registration",
 	
 	'register:ok:message' => "Your account has been registered. An activation email has been sent to your mailbox. If you didn't receive the email, please check your spam/junk folder.",
 	
@@ -114,7 +114,7 @@ Please confirm your email address by clicking on the link below:
 You may copy and paste the address to your browser manually in case the link does not work.
 
 %s",
-	'user:friends' => 'Friends',
+	'user:friends' => 'Fellow Researchers',
 	'user:account:validated' => 'Account has been validated successfully!',
 	'user:account:validate:fail' => 'Cannot validate account! Please try again later.',
 	
@@ -171,7 +171,7 @@ You may copy and paste the address to your browser manually in case the link doe
 	'privacy:public:note' => 'Everyone on this site can see this.',
 	'privacy:friends:note' => 'Only your friends can see this.',
 	
-	'add:friend' => 'Add friend',
+	'add:friend' => 'Add Friend',
 	'cancel:request' => 'Cancel Request',
 	'remove:friend' => 'Unfriend',
 	'no:friends' => 'No Friends',

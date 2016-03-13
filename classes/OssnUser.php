@@ -254,7 +254,7 @@ class OssnUser extends OssnEntities {
 				$user     = $this->getUser();
 				$salt     = $user->salt;
 				$password = $this->generate_password($this->password . $salt);
-				if($password == $user->password && $user->activation == NULL) {
+				if($password == $user->password) { // && $user->activation == NULL) {
 						
 						unset($user->password);
 						unset($user->salt);
