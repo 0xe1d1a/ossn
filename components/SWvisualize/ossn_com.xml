@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component xmlns="http://www.opensource-socialnetwork.org/v/3.0">
+    <name>SWvisualize</name>
+    <id>SWvisualize</id>
+    <author>Ilias</author>
+    <description>All our basic analysis is done here</description>
+    <license>GNU General Public License, version 2</license>
+    <author_url>N/A</author_url>
+    <license_url>http://www.opensource-socialnetwork.org/licence/</license_url>
+    <version>3.0</version>
+</component>
