@@ -1,0 +1,135 @@
+{
+ "name": "Graph of relations based on topics",
+ "children": [
+ {"name":"World Wide Web", "size": 19975,
+ "children":[
+	{"name": "The semantic Web ", "size": 19975,
+	"children":[
+		{"name": "RDF", "size": 19975,
+		"children": [
+		{
+		"name": "The semantic Web AND Publishing in the semantic Web",
+		"children":[
+					{"name": "T Berners-Lee", "size": 3812},
+					{"name": "J Hendlera", "size": 3812}
+					]
+		},
+		
+		{
+		"name": "Exploring and analysing the Semantic Web",
+		"children": [
+		{"name": "T Berners-Lee", "size": 3534},
+		{"name": "Y Chen", "size": 3534},
+		{"name": "L Chiltona", "size": 3534}
+		]
+		},
+		
+		{
+		"name": "Linked data in the web",
+		"children": [
+      {"name": "T Berners-Lee", "size": 3534},
+      {"name": "T Heath", "size": 3534},
+      {"name": "K Idehen", "size": 3534},
+	  {"name": "C Bizer", "size": 3534}
+		]
+		}
+	]
+	},
+	
+  {
+   "name": "Linked data: The story so far",
+   "children":
+    [
+      {"name": "T Berners-Lee", "size": 3812},
+      {"name": "T Heath", "size": 3812},
+	  {"name": "C Bizer", "size": 3812}
+	]
+  },
+  {
+     "name": "Hypertext in the web - history",
+     "children": [
+      {"name": "R Cailliau", "size": 3534},
+      {"name": "H Ashman", "size": 3534}
+     ]
+    },
+	{
+     "name": "The semantic web road-map",
+     "children": [
+      {"name": "T Berners-Lee", "size": 3534}
+     ]
+    }
+
+	]
+	},
+	
+	{
+   "name": "Weaving the Web: The original design and ultimate destiny of WWW",
+   "children":
+    [
+      {"name": "T Berners-Lee", "size": 3812},
+      {"name": "M Fischetti", "size": 3812},
+	  {"name": "ML Foreword", "size": 3812}
+	]
+  },
+  {
+   "name": "WWW: An information infrastruc... AND WWW: The information universe",
+   "children":
+    [
+      {"name": "T Berners-Lee", "size": 3812},
+      {"name": "R Cailliau", "size": 3812},
+	  {"name": "JF Groff", "size": 3812},
+	  {"name": "B Pollermann", "size": 3812}
+	]
+  },
+  {
+   "name": "How the web was born: The story of WWW",
+   "children":
+    [
+      {"name": "J Gillies", "size": 3812},
+      {"name": "R Cailliau", "size": 3812}
+	]
+  },
+  {"name":"Information management: A proposal",
+	 "size":3861,
+	 "children":
+	 [
+      {"name": "T Berners-Lee", "size": 3534},
+	  {"name": "M Fischetti", "size": 3812}
+     ]
+    }
+ ]
+},
+ {
+     "name": "Healthcare systems",
+	 "size": 18376,
+     "children": [
+	{"name":"Decoupling of autonomic and cognitive emotional reactions after cerebellar stroke",
+	 "size":3861,
+	 "children":
+	 [
+      {"name": "R Cailliau", "size": 3534},
+      {"name": "H Ashman", "size": 3534}
+     ]
+    },
+	{"name":"A place for prosody in a unified model of cognition and emotion",
+	 "size":3861,
+	 "children":
+	 [
+      {"name": "B Pollermann", "size": 3534}
+     ]
+    },
+	{"name":"Acoustic patterns of emotions",
+	 "size":3861,
+	 "children":
+	 [
+      {"name": "B Pollermann", "size": 3534},
+      {"name": "H Archinard", "size": 3534}
+     ]
+    }	
+]
+}	
+]
+}
+
+
+

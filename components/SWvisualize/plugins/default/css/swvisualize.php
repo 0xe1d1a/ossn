@@ -1,12 +1,69 @@
+.newsfeed-middle {
+	height: 100%;
+	width: 100%;
+}
+
 
  .node {
   stroke: #fff;
   stroke-width: 1.5px;
 }
 
+.node label {
+  pointer-events: none;
+  font: 10px sans-serif;
+}
+
+
+
+.link2 {
+  stroke: #ccc;
+}
+
+.node2 text {
+  pointer-events: none;
+  font: 12px "Times New Roman";
+}
+
+
+
 .link {
   stroke: #999;
   stroke-opacity: .6;
+}
+
+
+.node2:hover {
+
+}
+
+.node:hover {
+  stroke: #000;
+  stroke-width: 1.5px;
+}
+
+.node--leaf {
+  fill: lightblue;
+}
+
+.label {
+  font: 11px "Times New Roman", Helvetica, Arial, sans-serif;
+  text-anchor: middle;
+  //text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+}
+
+.label,
+.node--root,
+.node--leaf {
+  pointer-events: none;
+}
+
+h3 {
+    text-align: center;
+}
+
+#graphc {
+    margin: right;
 }
 
 #table_container{

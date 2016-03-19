@@ -1,0 +1,633 @@
+{
+
+  "nodes": [{
+
+    "Name": "A Khateb",
+
+    "ID": 1,
+
+	"Topic":2, "Topic_name":"World Wide Web"
+
+  }, {
+
+    "Name": "C Bizer",
+
+    "ID": 2,
+
+	"Topic":2, "Topic_name":"World Wide Web"
+
+  }, {
+
+    "Name": "N Shadbolt",
+
+    "ID": 3,
+
+	"Topic":6, "Topic_name":"Information web"
+
+  }, {
+
+    "Name": "J Gillies",
+
+    "ID": 4,
+
+	"Topic":6, "Topic_name":"Information web"
+
+  }, {
+
+    "Name": "R Cailliau",
+
+    "ID": 5,
+
+	"Topic":2, "Topic_name":"World Wide Web"
+
+  }, {
+
+    "Name": "T Berners-Lee",
+
+    "ID": 6,
+
+	"Topic":2, "Topic_name":"World Wide Web"
+
+  }, {
+
+    "Name": "BZ Pollermann",
+
+    "ID": 7,
+
+	"Topic":4, "Topic_name":"Sentiment analysis"
+
+  }, {
+
+    "Name": " M Fischetti",
+
+    "ID": 8,
+
+	"Topic":3, "Topic_name":"The Semantic Web"
+
+  }, {
+
+    "Name": " J Hendlera",
+
+    "ID": 9,
+
+	"Topic":2, "Topic_name":"World Wide Web"
+
+  }, {
+
+    "Name": " T Heath",
+
+    "ID": 10,
+
+	"Topic":1, "Topic_name":"RDF"
+
+  }, {
+
+    "Name": " W Hall",
+
+    "ID": 11,
+
+	"Topic":2, "Topic_name":"World Wide Web"
+
+  }, {
+
+    "Name": " Y Chen",
+
+    "ID": 14,
+
+	"Topic":1, "Topic_name":"RDF"
+
+  }, {
+
+    "Name": " H Ashman",
+
+    "ID": 15,
+
+	"Topic":1, "Topic_name":"RDF"
+
+  }, {
+
+    "Name": " M Archinard",
+
+    "ID": 16,
+
+	"Topic":4, "Topic_name":"Sentiment analysis"
+
+  }, {
+
+    "Name": " ML Foreword",
+
+    "ID": 17,
+
+	"Topic":1, "Topic_name":"RDF"
+
+  }, {
+
+    "Name": " JF Groffa",
+
+    "ID": 19,
+
+	"Topic":2, "Topic_name":"World Wide Web"
+
+  }, {
+
+    "Name": " L Chiltona",
+
+    "ID": 20,
+
+	"Topic":1, "Topic_name":"RDF"
+
+  }, {
+
+    "Name": " K Idehen",
+
+    "ID": 21,
+
+	"Topic":1, "Topic_name":"RDF"
+
+  }, {
+
+    "Name": " FM Peeters",
+
+    "ID": 22,
+
+	"Topic":5, "Topic_name":"Healthcare systems"
+
+  }, {
+
+    "Name": " B Partoens",
+
+    "ID": 23,
+
+	"Topic":6, "Topic_name":"Information web"
+
+  }, {
+
+    "Name": "G Vantrappena",
+
+    "ID": 24,
+
+	"Topic":3, "Topic_name":"The Semantic Web"
+
+  }, {
+
+    "Name": " JFY Brookfield",
+
+    "ID": 25,
+
+	"Topic":5, "Topic_name":"Healthcare systems"
+
+  }, {
+
+    "Name": " N Pellowa",
+
+    "ID": 26,
+
+	"Topic":4, "Topic_name":"Sentiment analysis"
+
+  }, {
+
+  "Name": " GM Shaw",
+
+    "ID": 27,
+
+	"Topic":5, "Topic_name":"Healthcare systems"
+
+  }, {
+
+    "Name": " K Geboes",
+
+    "ID": 28,
+
+	"Topic":4, "Topic_name":"Sentiment analysis"
+
+  }, {
+
+    "Name": " P Rutgeerts",
+
+    "ID": 29,
+
+	"Topic":6, "Topic_name":"Information web"
+
+  }, {
+
+    "Name": " T Pauly",
+
+    "ID": 30,
+
+	"Topic":3, "Topic_name":"The Semantic Web"
+
+  }, {
+
+    "Name": " M Hiele",
+
+    "ID": 31,
+
+	"Topic":2, "Topic_name":"World Wide Web"
+
+  }, {
+
+    "Name": " JJ Gonzalez",
+
+    "ID": 32,
+
+	"Topic":1, "Topic_name":"RDF"
+
+  }, {
+
+    "Name": " T Tang",
+
+    "ID": 33,
+
+	"Topic":2, "Topic_name":"World Wide Web"
+
+  }, {
+
+    "Name": " A Caprara",
+
+    "ID": 34,
+
+	"Topic":6, "Topic_name":"Information web"
+
+  }, {
+
+    "Name": "SE Laux",
+
+    "ID": 35,
+
+	"Topic":6, "Topic_name":"Information web"
+
+  }
+
+  ],
+
+
+
+  "links": [{
+
+    "source": 1,
+
+    "target": 8,
+
+    "value": 1
+
+  }, {
+
+    "source": 1,
+
+    "target": 17,
+
+    "value": 1
+
+  }, {
+
+    "source": 1,
+
+    "target": 9,
+
+    "value": 2
+
+  }, {
+
+    "source": 1,
+
+    "target": 2,
+
+    "value": 2
+
+  }, {
+
+    "source": 1,
+
+    "target": 10,
+
+    "value": 2
+
+  }, {
+
+    "source": 1,
+
+    "target": 1,
+
+    "value": 4
+
+  }, {
+
+    "source": 1,
+
+    "target": 3,
+
+    "value": 1
+
+  }, {
+
+    "source": 1,
+
+    "target": 5,
+
+    "value": 3
+
+  }, {
+
+    "source": 1,
+
+    "target": 11,
+
+    "value": 1
+
+  }, {
+
+    "source": 1,
+
+    "target": 14,
+
+    "value": 1
+
+  }, {
+
+    "source": 1,
+
+    "target": 20,
+
+    "value": 1
+
+  }, {
+
+    "source": 1,
+
+    "target": 21,
+
+    "value": 1
+
+  }, {
+
+    "source": 4,
+
+    "target": 5,
+
+    "value": 1
+
+  }, {
+
+    "source": 1,
+
+    "target": 19,
+
+    "value": 2
+
+  }, {
+
+    "source": 1,
+
+    "target": 7,
+
+    "value": 1
+
+  }, {
+
+    "source": 5,
+
+    "target": 15,
+
+    "value": 1
+
+  }, {
+
+    "source": 5,
+
+    "target": 19,
+
+    "value": 3
+
+  }, {
+
+    "source": 8,
+
+    "target": 17,
+
+    "value": 1
+
+  }, {
+
+    "source": 2,
+
+    "target": 10,
+
+    "value": 2
+
+  }, {
+
+    "source": 3,
+
+    "target": 5,
+
+    "value": 1
+
+  }, {
+
+    "source": 3,
+
+    "target": 11,
+
+    "value": 1
+
+  }, {
+
+    "source": 5,
+
+    "target": 11,
+
+    "value": 1
+
+  }, {
+
+    "source": 1,
+
+    "target": 19,
+
+    "value": 1
+
+  }, {
+
+    "source": 5,
+
+    "target": 7,
+
+    "value": 3
+
+  }, {
+
+    "source": 14,
+
+    "target": 20,
+
+    "value": 1
+
+  }, {
+
+    "source": 2,
+
+    "target": 21,
+
+    "value": 1
+
+  }, {
+
+    "source": 20,
+
+    "target": 21,
+
+    "value": 1
+
+  }, {
+
+    "source": 5,
+
+    "target": 20,
+
+    "value": 1
+
+  }, {
+
+    "source": 5,
+
+    "target": 17,
+
+    "value": 1
+
+  }, {
+
+    "source": 7,
+
+    "target": 19,
+
+    "value": 2
+
+  }, {
+
+    "source": 4,
+
+    "target": 5,
+
+    "value": 1
+
+  }, {
+
+    "source": 6,
+
+    "target": 7,
+
+    "value": 1
+
+  }, {
+
+    "source": 7,
+
+    "target": 7,
+
+    "value": 2
+
+  },
+
+  {
+
+    "source": 1,
+
+    "target": 8,
+
+    "value": 1
+
+  }, {
+
+    "source": 1,
+
+    "target": 17,
+
+    "value": 1
+
+  }, {
+
+    "source": 1,
+
+    "target": 9,
+
+    "value": 2
+
+  }, {
+
+    "source": 10,
+
+    "target": 28,
+
+    "value": 2
+
+  }, {
+
+    "source": 13,
+
+    "target": 29,
+
+    "value": 2
+
+  }, {
+
+    "source": 18,
+
+    "target": 14,
+
+    "value": 4
+
+  }, {
+
+    "source": 10,
+
+    "target": 31,
+
+    "value": 1
+
+  }, {
+
+    "source": 8,
+
+    "target": 25,
+
+    "value": 3
+
+  }, {
+
+    "source": 12,
+
+    "target": 25,
+
+    "value": 1
+
+  }, {
+
+    "source": 19,
+
+    "target": 27,
+
+    "value": 1
+
+  }, {
+
+    "source": 9,
+
+    "target": 26,
+
+    "value": 1
+
+  }, {
+
+    "source": 7,
+
+    "target": 21,
+
+    "value": 1
+
+  }
+
+  
+
+  ]
+
+}
